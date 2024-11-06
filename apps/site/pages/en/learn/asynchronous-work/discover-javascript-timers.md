@@ -10,7 +10,7 @@ authors: flaviocopes, MylesBorins, LaRuaNa, amiller-gh, ahmadawais, ovflowd
 
 When writing JavaScript code, you might want to delay the execution of a function.
 
-This is the job of `setTimeout`. You specify a callback function to execute later, and a value expressing how later you want it to run, in milliseconds:
+This is the job of `setTimeout`. You specify a callback function to execute later, and a value expressing how much later you want it to run, in milliseconds:
 
 ```js
 setTimeout(() => {
